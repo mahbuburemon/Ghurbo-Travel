@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Project Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ghurbo-Travel
+## live project link
 
-## Available Scripts
+https://reverent-hodgkin-dc0bdd.netlify.app/
 
-In the project directory, you can run:
 
 ### `npm start`
 
